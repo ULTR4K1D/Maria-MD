@@ -3,24 +3,24 @@ const chalk = require('chalk');
 require('dotenv').config();
 
 //contact details
-global.ownernumber = [ process.env.OWNER_NUMBER || "919931122319"],
-global.ownername = process.env.OWNER_NAME || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
-global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.ownernumber = [ process.env.OWNER_NUMBER || "27656607736"],
+global.ownername = process.env.OWNER_NAME || "ULTR4K1D ",
+global.ytname = "YT: ULTRAPLANETS TECHNOLOGY "
+global.socialm = "Facebook: ULTRAPLANETS TECHNOLOGY "
+global.location = "ZIMBABWEAN"
 
-global.botname = process.env.BOTNAME || "𝐌𝐀𝐑𝐈𝐀-𝐌𝐃",//name of the bot
+global.botname = process.env.BOTNAME || "DEMON-HUNTER",//name of the bot
 
 //sticker details
-global.stickername = process.env.STICKER || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
+global.stickername = process.env.STICKER || "ULTR4K1D ",
 global.packname = 'Sticker By'
-global.author = process.env.AUTHOR || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
+global.author = process.env.AUTHOR || "ULTR4K1D ",
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.wm = "ULTRAPLANETS TECH"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
+global.link = 'https://whatsapp.com/channel/0029VaHsksk9cDDeu1mtEd1z'
 
 //custom prefix
 global.prefa = process.env.PREFIX,
@@ -39,15 +39,15 @@ global.autoread_status = false //auto view status/story
 
 //reply messages
 global.mess = {
-    done: '🍭 *Here you go, darling!* ',
-    prem: '🍭 *My darling, this feature is reserved for premium users only*',
-    admin: '🍭 *My darling, this feature is reserved for admins only*',
-    botAdmin: '🍭 *Darling, this feature can only be used when the bot is a group admin* ',
-    owner: '🍭 *My dearest, this feature is reserved for the owner only*',
-    group: '🍭 *Sweetheart, this feature is exclusively for groups*',
-    private: '🍭 *My love, this feature is exclusively for private chats*',
-    wait: '🍭 *Darling, in process...* ',    
-    error: '🍭 *Oh darling, there seems to be an error!*',
+    done: '🍭 *Here you go, mate!* ',
+    prem: '🍭 *Mate, this feature is reserved for premium users only*',
+    admin: '🍭 *Mate, this feature is reserved for admins only*',
+    botAdmin: '🍭 *Dude, this feature can only be used when the bot is a group admin* ',
+    owner: '🍭 *Mate, this feature is reserved for the owner only*',
+    group: '🍭 *mate, this feature is exclusively for groups*',
+    private: '🍭 *Mate, this feature is exclusively for private chats*',
+    wait: '🍭 *processing...* ',    
+    error: '🍭 *Oh mate, there seems to be an error!*',
 }
 
 module.exports = {
