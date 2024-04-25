@@ -45,9 +45,9 @@ global.mess = {
     botAdmin: '🍭 *Mate, this feature can only be used when the bot is a group admin* ',
     owner: '🍭 *hey nigga, this feature is reserved for the owner only*',
     group: '🍭 *Sweetheart, this feature is exclusively for groups*',
-    private: '🍭 *My love, this feature is exclusively for private chats*',
-    wait: '🍭 *Darling, in process...* ',    
-    error: '🍭 *Oh darling, there seems to be an error!*',
+    private: '🍭 *Mate, this feature is exclusively for private chats*',
+    wait: '🍭 *Mate, in process...* ',    
+    error: '🍭 *hey dude, there seems to be an error!*',
 }
 
 module.exports = {
